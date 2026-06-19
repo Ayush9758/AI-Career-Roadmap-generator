@@ -1,0 +1,9 @@
+{
+  "name": "ai-career-roadmap-generator",
+  "version": "1.0.0",
+  "description": "AI Career Roadmap Generator - Root Package to run both servers concurrently",
+  "scripts": {
+    "setup": "npm install --prefix backend && npm install --prefix frontend",
+    "dev": "npx concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\""
+  }
+}
