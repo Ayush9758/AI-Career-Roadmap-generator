@@ -168,19 +168,22 @@ If additional environment variables are required, add them accordingly.
 
 ### Home Page
 
-*(Add screenshot here)*
+<img width="1902" height="973" alt="image" src="https://github.com/user-attachments/assets/d8baab14-40fa-42d4-97ab-713d1ddfca09" />
+
 
 ---
 
 ### Generated Roadmap
 
-*(Add screenshot here)*
+<img width="1912" height="977" alt="image" src="https://github.com/user-attachments/assets/ffbeb1ab-0df6-4df2-af44-0207670323ae" />
+
 
 ---
 
 ### AI Response
 
-*(Add screenshot here)*
+<img width="1912" height="976" alt="image" src="https://github.com/user-attachments/assets/9b572beb-b2db-44ae-931a-c38499d4d88a" />
+
 
 ---
 
@@ -230,7 +233,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Ayush**
+**Ayush Deep**
 
 GitHub: https://github.com/Ayush9758
 
